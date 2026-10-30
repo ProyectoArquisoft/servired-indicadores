@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Servired.Indicadores/Servired.Indicadores.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Servired.Indicadores.Tests/Servired.Indicadores.Tests.csproj" />
+  </Folder>
+</Solution>

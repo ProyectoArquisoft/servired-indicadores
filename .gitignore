@@ -1,0 +1,18 @@
+# Secretos: nunca commitear
+.env
+*.env
+!.env.example
+appsettings.*.local.json
+
+# .NET
+bin/
+obj/
+*.user
+TestResults/
+
+# Editor / SO
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

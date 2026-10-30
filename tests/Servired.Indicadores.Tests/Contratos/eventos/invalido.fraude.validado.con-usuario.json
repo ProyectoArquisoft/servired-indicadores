@@ -1,0 +1,16 @@
+{
+  "eventId": "3e9c7f4b-a05d-4b1e-826f-4d5e6f708192",
+  "type": "fraude.validado",
+  "version": 1,
+  "occurredAt": "2026-10-26T18:00:01Z",
+  "source": "moderacion",
+  "correlationId": "5e0c6a8b-2f1d-4b7a-9c3e-8d1f2a4b6c7e",
+  "data": {
+    "idFraude": 58,
+    "idServicio": 1,
+    "lat": 4.5981,
+    "lng": -74.0758,
+    "fecha": "2026-10-26T18:00:00Z",
+    "idUsuario": 7
+  }
+}

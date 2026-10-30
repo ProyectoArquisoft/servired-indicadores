@@ -1,0 +1,12 @@
+{
+  "eventId": "2d8b6e3a-9f4c-4a0d-b15e-3c4d5e6f7081",
+  "type": "validacion.registrada",
+  "version": 1,
+  "occurredAt": "2026-10-26T16:40:00Z",
+  "source": "reportes",
+  "correlationId": "5e0c6a8b-2f1d-4b7a-9c3e-8d1f2a4b6c7e",
+  "data": {
+    "idReporte": 1024,
+    "totalValidaciones": 1
+  }
+}

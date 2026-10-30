@@ -1,0 +1,13 @@
+{
+  "eventId": "4fa08a5c-b16e-4c2f-937a-5e6f708192a3",
+  "type": "fraude.rechazado",
+  "version": 1,
+  "occurredAt": "2026-10-26T18:10:01Z",
+  "source": "moderacion",
+  "correlationId": "5e0c6a8b-2f1d-4b7a-9c3e-8d1f2a4b6c7e",
+  "data": {
+    "idFraude": 59,
+    "idServicio": 3,
+    "fecha": "2026-10-26T18:10:00Z"
+  }
+}

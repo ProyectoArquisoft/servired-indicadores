@@ -1,0 +1,20 @@
+{
+  "eventId": "0b6f4c1e-7d2a-4e8b-9f3c-1a2b3c4d5e6f",
+  "type": "reporte.creado",
+  "version": 1,
+  "occurredAt": "2026-10-26T13:05:00Z",
+  "source": "reportes",
+  "correlationId": "5e0c6a8b-2f1d-4b7a-9c3e-8d1f2a4b6c7e",
+  "data": {
+    "idReporte": 1024,
+    "codigoTrazabilidad": "SR-2026-000124",
+    "idServicio": 1,
+    "tipoServicio": "ENERGIA",
+    "severidad": "ALTA",
+    "departamento": "Cundinamarca",
+    "municipio": "Bogotá D.C.",
+    "lat": 4.6097,
+    "lng": -74.0817,
+    "fechaCreacion": "2026-10-26T13:05:00Z"
+  }
+}

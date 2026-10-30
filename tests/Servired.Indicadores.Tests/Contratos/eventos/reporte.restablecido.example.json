@@ -1,0 +1,17 @@
+{
+  "eventId": "1c7a5d2f-8e3b-4f9c-a04d-2b3c4d5e6f70",
+  "type": "reporte.restablecido",
+  "version": 1,
+  "occurredAt": "2026-10-26T17:45:00Z",
+  "source": "reportes",
+  "correlationId": "5e0c6a8b-2f1d-4b7a-9c3e-8d1f2a4b6c7e",
+  "data": {
+    "idReporte": 1024,
+    "idServicio": 1,
+    "departamento": "Cundinamarca",
+    "municipio": "Bogotá D.C.",
+    "fechaCreacion": "2026-10-26T13:05:00Z",
+    "fechaResolucion": "2026-10-26T17:20:00Z",
+    "duracionInterrupcionHoras": 5.33
+  }
+}
